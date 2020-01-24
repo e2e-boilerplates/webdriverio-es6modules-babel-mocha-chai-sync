@@ -1,6 +1,6 @@
 # WebdriverIO (sync): (ES6 modules, babel, mocha, & chai)
 
-[![GitHub Actions status | e2e-boilerplates/webdriverio-es6modules-babel-mocha-chai-sync](https://github.com/e2e-boilerplates/webdriverio-es6modules-babel-mocha-chai-sync/workflows/NodeCI/badge.svg)](https://github.com/e2e-boilerplates/webdriverio-es6modules-babel-mocha-chai-sync/actions?workflow=NodeCI)
+[![GitHub Actions status | e2e-boilerplates/webdriverio-es6modules-babel-mocha-chai-sync](https://github.com/e2e-boilerplates/webdriverio-es6modules-babel-mocha-chai-sync/workflows/webdriverio-es6modules-babel-mocha-chai-sync/badge.svg)](https://github.com/e2e-boilerplates/webdriverio-es6modules-babel-mocha-chai-sync/actions?workflow=webdriverio-es6modules-babel-mocha-chai-sync)
 
 WebdriverIO (sync) end-to-end test automation boilerplate project. Using ES6 modules, babel, mocha and chai.
 
