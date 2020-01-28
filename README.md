@@ -1,12 +1,12 @@
-# WebdriverIO (sync): (ES6 modules, babel, mocha, & chai)
+# WebdriverIO (sync): (ES6-Modules, BabelJS, Mocha and Chai)
 
-[![GitHub Actions status | e2e-boilerplates/webdriverio-es6modules-babel-mocha-chai-sync](https://github.com/e2e-boilerplates/webdriverio-es6modules-babel-mocha-chai-sync/workflows/webdriverio-es6modules-babel-mocha-chai-sync/badge.svg)](https://github.com/e2e-boilerplates/webdriverio-es6modules-babel-mocha-chai-sync/actions?workflow=webdriverio-es6modules-babel-mocha-chai-sync)
+[![GitHub Actions status | e2e-boilerplates/webdriverio-es6-modules-babeljs-mocha-chai](https://github.com/e2e-boilerplates/webdriverio-es6-modules-babeljs-mocha-chai/workflows/webdriverio-es6-modules-babeljs-mocha-chai/badge.svg)](https://github.com/e2e-boilerplates/webdriverio-es6-modules-babeljs-mocha-chai/actions?workflow=webdriverio-es6-modules-babeljs-mocha-chai)
 
-WebdriverIO (sync) end-to-end test automation boilerplate project. Using ES6 modules, babel, mocha and chai.
+WebdriverIO end-to-end test automation boilerplate, Using ES6-Modules, BabelJS, Mocha and Chai.
 
 ## Getting Started
 
-    git clone git@github.com:e2e-boilerplates/webdriverio-es6modules-babel-mocha-chai-sync.git
-    cd webdriverio-es6modules-babel-mocha-chai-sync
+    git clone git@github.com:e2e-boilerplates/webdriverio-es6-modules-babeljs-mocha-chai.git
+    cd webdriverio-es6-modules-babeljs-mocha-chai
     npm install
     npm run test
