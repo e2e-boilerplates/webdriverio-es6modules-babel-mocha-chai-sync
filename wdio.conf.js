@@ -12,9 +12,6 @@ exports.config = {
   services: ["chromedriver"],
   framework: "mocha",
   reporters: ["dot"],
-  jasmineNodeOpts: {
-    defaultTimeoutInterval: 60000
-  },
   mochaOpts: {
     timeout: 60000
   },
