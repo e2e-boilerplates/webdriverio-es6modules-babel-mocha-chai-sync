@@ -1,21 +1,21 @@
 {
-  "name": "webdriverio-es6-modules-babeljs-mocha-chai",
+  "name": "webdriverio-es6-modules-babeljs-mocha-chai-expect",
   "version": "1.0.0",
-  "description": "WebdriverIO end-to-end test automation boilerplate, using ES6-Modules, BabelJS, Mocha and Chai.",
+  "description": "WebdriverIO end-to-end test automation boilerplate, using ES6 modules, BabelJS, Mocha, Chai and Expect.",
   "scripts": {
     "lint": "npx eslint --ext .js ./ --fix",
-    "test": "npx wdio wdio.conf.js",
-    "test-ci": "npx wdio wdio-ci.conf.js"
+    "test": "npx wdio"
   },
   "keywords": [
     "webdriverio",
-    "es6 modules",
+    "es6",
     "babel",
     "mocha",
     "chai",
-    "sync",
+    "e2e",
     "boilerplate",
-    "example"
+    "example",
+    "e2e test"
   ],
   "author": "Girma Nigusse",
   "license": "MIT",

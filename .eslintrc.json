@@ -1,7 +1,5 @@
 {
   "env": {
-    "commonjs": true,
-    "es6": true,
     "node": true,
     "mocha": true
   },
@@ -10,14 +8,5 @@
     "plugin:prettier/recommended",
     "plugin:wdio/recommended"
   ],
-  "globals": {
-    "Atomics": "readonly",
-    "SharedArrayBuffer": "readonly",
-    "$": true,
-    "browser": true
-  },
-  "parserOptions": {
-    "ecmaVersion": 2018
-  },
   "plugins": ["wdio"]
 }
