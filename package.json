@@ -37,15 +37,15 @@
   "keywords": [
     "babeljs",
     "chai",
-    "es modules",
+    "es",
     "mocha",
     "webdriverio"
   ],
   "license": "MIT",
-  "name": "webdriverio-es6-modules-babeljs-mocha-chai",
+  "name": "webdriverio-es-modules-babeljs-mocha-chai",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/e2e-boilerplates/webdriverio-es6-modules-babeljs-mocha-chai.git"
+    "url": "git+https://github.com/e2e-boilerplates/webdriverio-es-modules-babeljs-mocha-chai.git"
   },
   "scripts": {
     "lint": "npx eslint --ext .js ./ --fix",
