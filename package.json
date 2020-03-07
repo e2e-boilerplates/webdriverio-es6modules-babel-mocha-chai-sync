@@ -1,5 +1,5 @@
 {
-  "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
+  "author": "",
   "dependencies": {
     "@babel/register": "7.8.6"
   },
@@ -36,13 +36,9 @@
   },
   "keywords": [
     "babeljs",
-    "boilerplate",
     "chai",
-    "e2e",
-    "e2e tests",
+    "es Modules",
     "es6",
-    "example",
-    "integration test",
     "mocha",
     "webdriverio"
   ],
