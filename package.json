@@ -36,7 +36,7 @@
   "homepage": "https://github.com/e2e-boilerplate/webdriverio-es-modules-babel-mocha-chai-expect#readme",
   "husky": {
     "hooks": {
-      "pre-commit": "pretty-quick --staged"
+      "pre-commit": "lint-staged"
     }
   },
   "keywords": [
@@ -52,6 +52,11 @@
     "webdriverio"
   ],
   "license": "MIT",
+  "lint-staged": {
+    "*.{js,json,md}": [
+      "prettier --write"
+    ]
+  },
   "name": "webdriverio-es-modules-babel-mocha-chai-expect",
   "repository": {
     "type": "git",
