@@ -1,12 +1,9 @@
 | referrer                                                                                         | count | uniques |
 | :----------------------------------------------------------------------------------------------- | :---- | :------ |
-| /e2e-boilerplate/webdriverio-es-modules-babel-mocha-chai-expect                                  | 4     | 4       |
-| /e2e-boilerplate/webdriverio-es-modules-babel-mocha-chai                                         | 2     | 2       |
-| /e2e-boilerplate/webdriverio-es-modules-babel-mocha-chai/actions                                 | 2     | 2       |
-| /e2e-boilerplate/webdriverio-es-modules-babel-mocha-chai/actions/runs/62636184                   | 2     | 2       |
+| /e2e-boilerplate/webdriverio-es-modules-babel-mocha-chai-expect                                  | 3     | 3       |
 | /e2e-boilerplate/webdriverio-es-modules-babel-mocha-chai-expect/blob/master/spec/sandbox.spec.js | 2     | 2       |
 | /e2e-boilerplate/webdriverio-es-modules-babel-mocha-chai-expect/tree/master/spec                 | 2     | 2       |
-| /e2e-boilerplate/webdriverio-es-modules-babel-mocha-chai-expect/actions                          | 1     | 1       |
-| /e2e-boilerplate/webdriverio-es-modules-babel-mocha-chai-expect/blob/master/package.json         | 1     | 1       |
+| /e2e-boilerplate/webdriverio-es-modules-babel-mocha-chai-expect/actions                          | 2     | 1       |
 | /e2e-boilerplate/webdriverio-es-modules-babel-mocha-chai-expect/blob/master/wdio.conf.js         | 1     | 1       |
 | /e2e-boilerplate/webdriverio-es-modules-babel-mocha-chai-expect/pull/103                         | 1     | 1       |
+| /e2e-boilerplate/webdriverio-es-modules-babel-mocha-chai-expect/pull/107                         | 1     | 1       |
