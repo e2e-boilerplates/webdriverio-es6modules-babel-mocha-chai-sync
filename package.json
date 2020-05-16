@@ -41,16 +41,17 @@
   },
   "keywords": [
     "babel",
-    "boilerplate",
     "chai",
+    "es modules",
+    "expect",
+    "mocha",
+    "webdriverio",
     "e2e",
     "e2e tests",
-    "es modules",
-    "example",
-    "expect",
+    "boilerplate",
     "integration test",
-    "mocha",
-    "webdriverio"
+    "test automation",
+    "javascript"
   ],
   "license": "MIT",
   "lint-staged": {
